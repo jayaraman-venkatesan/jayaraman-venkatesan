@@ -17,16 +17,20 @@ Here are some ideas to get you started:
 
 <h2>Hey there! I'm Jayaram</h2>
 
+<img alt="Night Coding" src="https://media.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" align="right" height='200px'/>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm currently studying Master of Science Computer Science at Northeastern University\
-🎓 &nbsp;I have 2+ years of experience working as Software Engineer at Visa
+💡 &nbsp;I'm currently a Research Assistant and pursuing my Master of Science Computer Science at Northeastern University\
+🗃️ &nbsp;Researching on database systems\
+🎓 &nbsp;I have 2+ years of experience working as Software Engineer at Visa\
+🖥️ &nbsp;OS Enthusiast
+
 
 ### 💬 &nbsp;Contact Me
 <a href="https://www.linkedin.com/in/jayaraman-venkatesan/"><img src="https://img.shields.io/badge/-Jayaraman%20Venkatesan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:venkatesan.j@northeastern.edu"><img src="https://img.shields.io/badge/-venkatesan.j@northeastern.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<img alt="Night Coding" src="https://media.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
