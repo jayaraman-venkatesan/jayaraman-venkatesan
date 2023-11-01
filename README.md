@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💡 &nbsp;I'm currently a Research Assistant and pursuing my Master of Science Computer Science at Northeastern University\
 🗃️ &nbsp;Researching on database systems\
 🎓 &nbsp;I have 2+ years of experience working as Software Engineer at Visa\
-🖥️ &nbsp;OS Enthusiast
+🖥️ &nbsp;OS Enthusiast\
 🔊 &nbsp;NVIM > EMACS
 
 
