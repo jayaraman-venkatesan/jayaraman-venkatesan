@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm currently a Research Assistant and pursuing my Master of Science Computer Science at Northeastern University\
+💡 &nbsp;I am currently a Research Assistant pursuing my Master of Science in Computer Science at Northeastern University\
 🗃️ &nbsp;Researching on database systems\
 🎓 &nbsp;I have 2+ years of experience working as Software Engineer at Visa\
 🖥️ &nbsp;OS Enthusiast\
