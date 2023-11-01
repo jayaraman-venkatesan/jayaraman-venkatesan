@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🗃️ &nbsp;Researching on database systems\
 🎓 &nbsp;I have 2+ years of experience working as Software Engineer at Visa\
 🖥️ &nbsp;OS Enthusiast\
-🔊 &nbsp;NVIM > EMACS
+🔊 &nbsp; Unpopular opinion : NVIM > EMACS
 
 
 ### 💬 &nbsp;Contact Me
