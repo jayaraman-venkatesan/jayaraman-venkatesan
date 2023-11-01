@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h2>Hey there! I'm Jayaram</h2>
 
 <img alt="Night Coding" src="https://media.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" align="right" height='200px'/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm currently a Research Assistant and pursuing my Master of Science Computer Science at Northeastern University\
